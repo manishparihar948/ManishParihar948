@@ -11,7 +11,7 @@
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948)](https://github.com/manishparihar948/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948&layout=donut-vertical)](https://github.com/manishparihar948/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948&layout=donut-vertical&theme=tokyonight)](https://github.com/manishparihar948/github-readme-stats)
 
 
 <!--
