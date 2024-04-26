@@ -5,7 +5,8 @@
 🌱 I’m currently learning on machine learning and automation testing...
 
 [![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishparihar948)](https://github.com/manishparihar948/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948)](https://github.com/manishparihar948/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948)](https://github.com/manishparihar948/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948&layout=donut-vertical)](https://github.com/manishparihar948/github-readme-stats)
 
 <!--
 **manishparihar948/ManishParihar948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
