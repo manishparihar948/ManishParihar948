@@ -16,12 +16,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100" height="100">
   </a>
-  
-  <a href="  https://code.visualstudio.com/">
-    ![Alt Text](![vscode](https://github.com/manishparihar948/ManishParihar948/assets/806902/ce36bea9-2035-419a-bf0f-dd8142de9b89)
-)
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100" height="100">
-  </a>
 </div>
 
 
