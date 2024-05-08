@@ -2,7 +2,7 @@
 
 📱 Experienced iOS Developer with Data Science, Automation Testing with a proven track record of leveraging the latest technologies, including Swift UI, Python, and Selenium, to deliver high-impact and user-centric mobile applications. Proficient in transforming conceptual ideas into efficient, robust, and visually appealing iOS experiences. Committed to staying at the forefront of advancements in the iOS development landscape, continuously pushing the boundaries of innovation. A passion for crafting elegant solutions that seamlessly blend form and function, ensuring optimal user satisfaction and engagement.
 
-**manishparihar948/ManishParihar948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on an innovative mobile application.
