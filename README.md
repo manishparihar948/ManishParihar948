@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 🛠️ Languages and Tools I used and learned:
 <div style="border: 1px solid black; padding: 5px;">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100" height="100">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100" height="100">
-
 </div>
+
+<a href="https://github.com/">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="200" height="200">
+  </a>
 
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishparihar948&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948&layout=donut-vertical&theme=tokyonight)](https://github.com/manishparihar948/github-readme-stats)
