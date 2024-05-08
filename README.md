@@ -11,9 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 
 🛠️ Languages and Tools I used and learned:
-<div style="border: 1px solid black; padding: 5px;">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100" height="100">
-</div>
 
 <div style="border: 1px solid black; padding: 5px;">
   <a href="https://github.com/">
@@ -21,6 +18,8 @@ Here are some ideas to get you started:
   </a>
   
   <a href="  https://code.visualstudio.com/">
+    ![Alt Text](![vscode](https://github.com/manishparihar948/ManishParihar948/assets/806902/ce36bea9-2035-419a-bf0f-dd8142de9b89)
+)
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100" height="100">
   </a>
 </div>
