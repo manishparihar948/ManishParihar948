@@ -11,10 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 
 🛠️ Languages and Tools I used and learned:
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
-
-
+<div style="border: 1px solid black; padding: 5px;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="200" height="200">
+</div>
 
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishparihar948&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948&layout=donut-vertical&theme=tokyonight)](https://github.com/manishparihar948/github-readme-stats)
