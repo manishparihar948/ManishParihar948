@@ -6,11 +6,14 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on an innovative mobile application.
-- 🌱 I’m currently learning machine learning and automation testing.
+- 🌱 Also I’m learning machine learning.
 - 👯 I’m looking to collaborate on intersting projects with future technologies.
 - 📫 How to reach me: 
 
 ## 🧰 Languages and Tools:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948&layout=compact&theme=tokyonight)](https://github.com/manishparihar948/github-readme-stats)
+
 <p align="center">
   <img   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="80" style="vertical-align:top; margin:4px" >
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="80" style="vertical-align:top; margin:4px">
@@ -27,6 +30,6 @@ Here are some ideas to get you started:
 
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishparihar948&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948&layout=compact&theme=tokyonight)](https://github.com/manishparihar948/github-readme-stats)
+
 <!--[![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishparihar948)](https://github.com/manishparihar948/github-readme-stats)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948)](https://github.com/manishparihar948/github-readme-stats) -->
