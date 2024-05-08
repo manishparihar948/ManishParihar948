@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 Languages:
 
-<div>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948&layout=compact&theme=tokyonight)](https://github.com/manishparihar948/github-readme-stats)
 
 ## 🧰 Tools:
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishparihar948&show_icons=true&theme=tokyonight)
 
-</div>
+
 
 
 <!--[![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishparihar948)](https://github.com/manishparihar948/github-readme-stats)-->
