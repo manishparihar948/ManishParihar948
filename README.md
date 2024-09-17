@@ -1,6 +1,6 @@
 ### Hello Everyone 👋, I'm Manish Parihar
 
-📱 Experienced iOS Developer with Data Science, Automation Testing with a proven track record of leveraging the latest technologies, including Swift UI, Python, and Selenium, to deliver high-impact and user-centric mobile applications. Proficient in transforming conceptual ideas into efficient, robust, and visually appealing iOS experiences. Committed to staying at the forefront of advancements in the iOS development landscape, continuously pushing the boundaries of innovation. A passion for crafting elegant solutions that seamlessly blend form and function, ensuring optimal user satisfaction and engagement.
+📱 Experienced iOS Developer with Data Science, Automation Testing with a proven track record of leveraging the latest technologies, including Swift UI, Python, and Selenium, to deliver high-impact and user-centric mobile applications, data science applications. Proficient in transforming conceptual ideas into efficient, robust, and visually appealing iOS experiences. Committed to staying at the forefront of advancements in the iOS development landscape, continuously pushing the boundaries of innovation. A passion for crafting elegant solutions that seamlessly blend form and function, ensuring optimal user satisfaction and engagement.
 
 
 
