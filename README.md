@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ## 🧑‍💻 Languages:
 --------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948&layout=compact&theme=tokyonight)](https://github.com/manishparihar948/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948&layout=compact&theme=onedark)](https://github.com/manishparihar948/github-readme-stats)
 
 
 ## 🧰 Tools:
