@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 Languages:
 
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948&layout=compact&theme=tokyonight)](https://github.com/manishparihar948/github-readme-stats)
 
 
@@ -26,9 +25,8 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Slack-white?style=plastic&logo=slack&logoColor=white&labelColor=violet&color=black) 
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=white&labelColor=blue&color=black)
 
-
+## 🐱 GitHub Stats:
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishparihar948&show_icons=true&theme=tokyonight)
-
 
 
 <!--[![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishparihar948)](https://github.com/manishparihar948/github-readme-stats)-->
