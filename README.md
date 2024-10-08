@@ -8,16 +8,19 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on an innovative mobile application.
 - 🌱 Also I’m learning machine learning.
 - 👯 I’m looking to collaborate on intersting projects with future technologies.
-- 📫 How to reach me: 
+- 📫 How to reach me: manishparihar948@gmail.com
 
 ## 🧑‍💻 Languages:
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948&layout=compact&theme=tokyonight)](https://github.com/manishparihar948/github-readme-stats)
 
+
 ## 🧰 Tools:
 
-<p align="center">
+--------------
+![Static Badge](https://img.shields.io/badge/IOS-grey?style=plastic&logo=apple&logoColor=white&labelColor=grey&color=grey) ![Static Badge](https://img.shields.io/badge/Swift-orange?style=plastic&logo=swift&logoColor=white&labelColor=orange&color=orange) ![Static Badge](https://img.shields.io/badge/SwiftUI-black?style=plastic&logo=swift&logoColor=black&labelColor=blue&color=black) ![Static Badge](https://img.shields.io/badge/Firebase-blue?style=plastic&logo=firebase&labelColor=blue&color=blue) ![Static Badge](https://img.shields.io/badge/Xcode-blue?style=plastic&logo=Xcode&labelColor=black&color=black) ![Static Badge](https://img.shields.io/badge/macOS-black?style=plastic&logo=macOS&logoColor=red-orange&labelColor=black&color=black) ![Static Badge](https://img.shields.io/badge/Slack-white?style=plastic&logo=slack&logoColor=white&labelColor=violet&color=black)
+
   <img   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="80" style="vertical-align:top; margin:4px" >
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="80" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="80" style="vertical-align:top; margin:4px">
@@ -25,8 +28,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="VS Code" height="80" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="VS Code" height="80" style="vertical-align:top; margin:4px">
 
-
-</p>
 
 
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishparihar948&show_icons=true&theme=tokyonight)
