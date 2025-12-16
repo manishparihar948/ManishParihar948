@@ -1,27 +1,17 @@
 ### Hello Everyone 👋, I'm Manish Parihar
 
-📱 Seasoned iOS developer with a deep understanding of Machine Learning and Automation Testing. Skilled in harnessing cutting-edge technologies like Swift UI, Python, and Selenium to create innovative, user-friendly mobile applications, machine learning solutions and automation testing. Proven ability to translate abstract concepts into visually stunning iOS experiences that are both efficient and reliable. Dedicated to staying ahead of the curve in iOS development, continually exploring new ways to push the boundaries of innovation. Committed to delivering elegant solutions that seamlessly integrate form and function, ensuring optimal user satisfaction and engagement.
+📱 Mobile AI Scientist building intelligent, user-centric mobile applications using SwiftUI, Python, and Selenium. Passionate about machine learning, automation testing, and turning complex ideas into elegant, high-performance mobile experiences.
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on an innovative mobile application.
-- 🌱 Also I’m learning machine learning.
-- 👯 I’m looking to collaborate on intersting projects with future technologies.
-- 📫 How to reach me: manish.parihar948@gmail.com
+🔭 Working on an innovative AI-powered mobile app
+🌱 Learning and applying Machine Learning for mobile platforms
 
 ## 🧑‍💻 Tech Stack:
 ----------------
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-
 
 
 ## 🐱 GitHub Stats:
