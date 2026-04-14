@@ -1,6 +1,6 @@
 ### Hello Everyone 👋, I'm Manish Parihar
 
-📱 Mobile AI Scientist building intelligent, user-centric mobile applications using SwiftUI, Python, and Selenium. Passionate about machine learning, automation testing, and turning complex ideas into elegant, high-performance mobile experiences.
+📱 Mobile ML Scientist building intelligent, user-centric mobile applications using SwiftUI, Python, and Selenium. Passionate about machine learning, automation testing, and turning complex ideas into elegant, high-performance mobile experiences.
 
 🔭 Working on an innovative AI-powered mobile app
 🌱 Learning and applying Machine Learning for mobile platforms
