@@ -2,7 +2,7 @@
 
 📱 Mobile Data Scientist crafting intelligent, user‑centric applications with SwiftUI, Python, and Selenium. I specialize in blending machine learning and automation testing to transform complex ideas into elegant, high‑performance mobile experiences.
 
-🎓 M.S. in Data Science  
+🎓 M.Sc. in Data Science  
 🔭 Currently building an AI‑powered mobile app  
 🌱 Expanding my expertise in Machine Learning for mobile platforms
 
