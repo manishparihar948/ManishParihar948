@@ -1,6 +1,6 @@
 ### Hello Everyone 👋, I'm Manish Parihar
 
-📱 iOS Engineer building scalable, AI-powered mobile applications using Swift, SwiftUI, Python, and modern Apple frameworks.
+📱 Mobile AI Engineer building scalable, AI-powered mobile applications using Swift, SwiftUI, Python, and modern Apple frameworks.
 
 🤖 Passionate about integrating Machine Learning, Computer Vision, and Natural Language Processing into intuitive, high-performance mobile experiences.
 
