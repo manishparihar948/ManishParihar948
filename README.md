@@ -10,18 +10,21 @@
 
 🌱 Continuously learning advanced mobile AI, software architecture, and intelligent user experiences.
 
-## 🧑‍💻 Tech Stack:
-----------------
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+### 🛠 Tech Stack
+
+![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=swift)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![CoreML](https://img.shields.io/badge/CoreML-black?style=for-the-badge&logo=apple)
+![Vision](https://img.shields.io/badge/Vision-grey?style=for-the-badge)
+
+![Fastlane](https://img.shields.io/badge/Fastlane-blue?style=for-the-badge&logo=fastlane)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
 
 
 ## 🐱 GitHub Stats:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manishparihar948&theme=github-dark)
 
-![](https://github-profile-trophy.vercel.app/?username=manishparihar948&theme=darkhub&no-frame=true&row=2&column=4)
 
-<!--[![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishparihar948)](https://github.com/manishparihar948/github-readme-stats)-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948)](https://github.com/manishparihar948/github-readme-stats) -->
