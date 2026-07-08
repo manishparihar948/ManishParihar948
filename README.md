@@ -19,8 +19,7 @@
 
 
 ## 🐱 GitHub Stats:
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishparihar948&show_icons=true&theme=dark)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manishparihar948&theme=github-dark)
 
 <!--[![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishparihar948)](https://github.com/manishparihar948/github-readme-stats)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishparihar948)](https://github.com/manishparihar948/github-readme-stats) -->
