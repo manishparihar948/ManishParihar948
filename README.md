@@ -1,10 +1,14 @@
 ### Hello Everyone 👋, I'm Manish Parihar
 
-📱 Mobile Data Scientist crafting intelligent, user‑centric applications with SwiftUI, Python, and Selenium. I specialize in blending machine learning to transform complex ideas into elegant, high‑performance mobile experiences.
+📱 iOS Engineer building scalable, AI-powered mobile applications using Swift, SwiftUI, Python, and modern Apple frameworks.
 
-🎓 M.Sc. in Data Science  
-🔭 Currently building an AI‑powered mobile app  
-🌱 Expanding my expertise in Machine Learning for mobile platforms
+🤖 Passionate about integrating Machine Learning, Computer Vision, and Natural Language Processing into intuitive, high-performance mobile experiences.
+
+🎓 M.Sc. Data Science
+
+🚀 Currently building AI-powered mobile applications and exploring on-device AI with Core ML, Vision, and LLMs.
+
+🌱 Continuously learning advanced mobile AI, software architecture, and intelligent user experiences.
 
 ## 🧑‍💻 Tech Stack:
 ----------------
