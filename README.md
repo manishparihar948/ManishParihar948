@@ -12,16 +12,75 @@
 
 ### 🛠 Tech Stack
 
-![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=swift)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge)
+## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![CoreML](https://img.shields.io/badge/CoreML-black?style=for-the-badge&logo=apple)
-![Vision](https://img.shields.io/badge/Vision-grey?style=for-the-badge)
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=swift" height="45" alt="Swift"/>
+  <img src="https://skillicons.dev/icons?i=apple" height="45" alt="Apple"/>
+</p>
 
-![Fastlane](https://img.shields.io/badge/Fastlane-blue?style=for-the-badge&logo=fastlane)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+**Swift • SwiftUI • UIKit • Core Data • Core ML • Vision • AVFoundation • Combine**
+
+---
+
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="PyTorch"/>
+</p>
+
+**Python • TensorFlow • PyTorch • Core ML • Vision • NLP • Computer Vision**
+
+---
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=swift" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="45"/>
+</p>
+
+**Swift • Python • Bash**
+
+---
+
+### ⚙️ Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=xcode" height="45"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="45"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="45"/>
+</p>
+
+**Xcode • Android Studio • Visual Studio • VS Code • Jupyter Notebook • Git • GitHub • Postman**
+
+---
+
+### 🚀 CI/CD & Project Management
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
+</p>
+
+**CircleCI • Fastlane • SwiftLint • GitHub Actions • Jira**
+
+---
+
+### 🧪 Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium" height="45"/>
+</p>
+
+**XCTest • XCTest UI • Selenium • Unit Testing • UI Testing**
+
+---
+
+### 🏗 Architecture
+**MVVM • Clean Architecture • The Composable Architecture (TCA) • SOLID • Dependency Injection**
 
 
 ## 🐱 GitHub Stats:
